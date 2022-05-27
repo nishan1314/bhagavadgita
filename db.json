@@ -1,0 +1,130 @@
+{
+  "chapters": [
+    {
+      "id": "1",
+      "chapter_number": "1",
+      "chapter_ban": "প্রথম অধ্যায় ",
+      "name": "অর্জুন বিষাদ যোগ",
+      "verse_count": "৪৬"
+    },
+    {
+      "id": "2",
+      "chapter_number": "2",
+      "chapter_ban": "দ্বিতীয় অধ্যায়",
+      "name": "সাংখ্য যোগ",
+      "verse_count": "৭২"
+    },
+    {
+      "id": "3",
+      "chapter_number": "3",
+      "chapter_ban": "তৃতীয় অধ্যায়",
+      "name": "কর্ম যোগ",
+      "verse_count": "৪৩"
+    },
+    {
+      "id": "4",
+      "chapter_number": "4",
+      "chapter_ban": "চতুর্থ অধ্যায়",
+      "name": "জ্ঞান যোগ",
+      "verse_count": "৪২"
+    },
+    {
+      "id": "5",
+      "chapter_number": "5",
+      "chapter_ban": "পঞ্চম অধ্যায়",
+      "name": "কর্মসন্ন্যাস যোগ",
+      "verse_count": "৩৯"
+    },
+    {
+      "id": "6",
+      "chapter_number": "6",
+      "chapter_ban": "ষষ্ঠ অধ্যায়",
+      "name": "ধ্যান যোগ",
+      "verse_count": "৪৭"
+    },
+    {
+      "id": "7",
+      "chapter_number": "7",
+      "chapter_ban": "সপ্তম অধ্যায়",
+      "name": "বিজ্ঞান যোগ",
+      "verse_count": "৩০"
+    },
+    {
+      "id": "8",
+      "chapter_number": "8",
+      "chapter_ban": "অষ্টম অধ্যায়",
+      "name": "অক্ষরব্রক্ষ যোগ",
+      "verse_count": "২৮"
+    },
+    {
+      "id": "9",
+      "chapter_number": "9",
+      "chapter_ban": "নবম অধ্যায়",
+      "name": "রাজগুহ্য যোগ",
+      "verse_count": "৩৪"
+    },
+    {
+      "id": "10",
+      "chapter_number": "10",
+      "chapter_ban": "দশম অধ্যায়",
+      "name": "বিভূতি যোগ",
+      "verse_count": "৪২"
+    },
+    {
+      "id": "11",
+      "chapter_number": "11",
+      "chapter_ban": "একাদশ অধ্যায়",
+      "name": "বিশ্বরূপ দর্শন যোগ",
+      "verse_count": "৫৫"
+    },
+    {
+      "id": "12",
+      "chapter_number": "12",
+      "chapter_ban": "দ্বাদশ অধ্যায়",
+      "name": "ভক্তি যোগ",
+      "verse_count": "২০"
+    },
+    {
+      "id": "13",
+      "chapter_number": "13",
+      "chapter_ban": "এয়োদশ অধ্যায়",
+      "name": "প্রকৃতি পুরুষ বিবেক যোগ",
+      "verse_count": "৩৫"
+    },
+    {
+      "id": "14",
+      "chapter_number": "14",
+      "chapter_ban": "চতুর্দশ অধ্যায়",
+      "name": "গুনত্রয় বিভাগ যোগ",
+      "verse_count": "২৭"
+    },
+    {
+      "id": "15",
+      "chapter_number": "15",
+      "chapter_ban": "পঞ্চদশ অধ্যায়",
+      "name": "পুরুষোত্তম যোগ",
+      "verse_count": "২০"
+    },
+    {
+      "id": "16",
+      "chapter_number": "16",
+      "chapter_ban": "ষোড়শ অধ্যায়",
+      "name": "দৈবাসুর সম্পদ বিভাগ যোগ",
+      "verse_count": "২৪"
+    },
+    {
+      "id": "17",
+      "chapter_number": "17",
+      "chapter_ban": "সপ্তদশ অধ্যায়",
+      "name": "শ্রদ্ধাত্রয় বিভাগ যোগ",
+      "verse_count": "২৮"
+    },
+    {
+      "id": "18",
+      "chapter_number": "18",
+      "chapter_ban": "অষ্টাদশ অধ্যায়",
+      "name": "মোক্ষ যোগ",
+      "verse_count": "৭৮"
+    }
+  ]
+}
